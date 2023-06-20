@@ -1,22 +1,13 @@
-- 👋 Hi, I’m @pitarac
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning Javascript, C#, Go...
-- 💞️ I’m looking to collaborate on hackathonbrasilia.com.br
-- 📫 How to reach me paulo@sejapublicitario.com.br
+Meu nome é Paulo Henrique, e sou um engenheiro de dados com experiência sólida em diversas áreas do desenvolvimento de software e análise de dados. 
 
-<!---
-Someone who likes to see the engines of programming.
-Alguém que gosta de ver os motores da programação. 
---->
-EN
-I am a young dreamer who sees technology as a means to develop projects capable of changing the lives of millions of people. Even as a teenager, I helped insert the elderly public into the digital world by teaching basic computer classes.
-From then on, my life went through several upgrades in my professional career. I always had the motto that in life we ​​never lose. We will always win or learn something. Part of this learning I acquired in the public service, where I gained experience in managing teams in the mission of delivering property deeds to dozens of families in DF.
-My most recent update included learning in the world of designer, e-commerce, and business strategies. Working within an advertising agency responsible for ambitious projects and good clients in Brasília, I put into practice all the knowledge I had about user experience. The mark that remained in my life was the approximation of the creative process and skill with creative tools.
-The next update I am still writing on the Hackathon Brasília personal project, whose purpose is to organize meetings with professionals in the technology and advertising market to integrate knowledge and develop new projects.
+Como engenheiro de dados, sou especialista em arquitetura de dados, garantindo que os sistemas utilizados sejam organizados de forma eficiente, com foco no desempenho, escalabilidade e segurança. Tenho conhecimento em desenvolvimento de pipelines de dados para coletar informações de diferentes fontes, como bancos de dados internos, APIs externas, registros de eventos e arquivos.
 
-PT-BR
+Minha experiência profissional inclui trabalhos como desenvolvedor de software, onde tive a oportunidade de atuar em projetos utilizando frameworks como Laravel e NEXT.js. Trabalhei na ABDI, onde fui responsável pela sustentação dos sistemas e desenvolvimento de novas funcionalidades, utilizando a precificação "ponto de função" e seguindo metodologias ágeis como Scrum. Além disso, atuei como freelancer, desenvolvendo funcionalidades e corrigindo códigos existentes para clientes, agregando valor aos seus negócios.
 
-Sou um jovem sonhador que vê a tecnologia como meio para desenvolver projetos capazes de modificar a vida de milhões de pessoas. Ainda quando adolescente, ajudei a inserir o público da terceira idade no mundo digital ministrando aulas de informática básica.
-A partir daí, minha vida passou por diversos upgrades na carreira profissional. Sempre tive o lema que na vida nunca perdemos. Nós sempre vamos ganhar ou aprender algo. Parte desse aprendizado adquiri no serviço público, onde obtive experiência na gestão de equipes na missão de entregar escrituras de imóveis a dezenas de famílias no DF.
-A minha atualização mais recente incluiu o aprendizado no mundo de designer, comércio eletrônico e estratégias de negócios. Atuando dentro de uma agência de publicidade responsável por projetos ambiciosos e bons clientes em Brasília, coloquei em prática todo o conhecimento que tinha sobre experiência do usuário. A marca que ficou em minha vida foi a aproximação do processo criativo e habilidade com ferramentas de criação.
-A próxima atualização ainda estou escrevendo no projeto pessoal Hackathon Brasília, cujo propósito é organizar encontros com profissionais da área de tecnologia e mercado publicitário para integração de conhecimento e desenvolvimento novos projetos. 
+Ao longo da minha carreira, também tive a oportunidade de trabalhar como engenheiro de software na plataforma Workana, onde desenvolvi aplicações web utilizando uma ampla gama de tecnologias, como React Native, PHP, Angular, Node.js, entre outras. Além disso, realizei configuração e manutenção de anúncios e rastreamento utilizando ferramentas como HTML, Pixel Facebook, Google Analytics, TikTok ADS e Google Data Studio.
+
+Na minha última posição como gerente de tecnologia na MENTHA | Agência que vibra, coordenei a equipe de Tráfego Pago e Tecnologias do Marketing, aplicando técnicas de Growth Hacking, análise de dados e otimização de conversões. Desenvolvi rotinas para atender às necessidades dos clientes, incluindo a criação de páginas de captura com o uso de ferramentas no-code. Além disso, identifiquei oportunidades de crescimento, treinei estagiários e promovi reuniões semanais para alinhamento e atendimento aos clientes.
+
+Tenho formação acadêmica, pós-graduação em Ciência de Dados pela PUC-RIO que finalizo em novembro desde ano e possuo graduação em Análise e Desenvolvimento de Sistemas pela Estácio. Também possuo bacharelado em Administração de Empresas pelo UDF Centro Universitário.
+
+Estou animado para aplicar meus conhecimentos e experiência para enfrentar novos desafios e contribuir para o sucesso da sua empresa. Minha paixão pela tecnologia, habilidades analíticas e capacidade de liderança me permitem agregar valor em diferentes áreas, desde a arquitetura de dados até o desenvolvimento de soluções inovadoras.
