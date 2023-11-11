@@ -1,3 +1,7 @@
+![A imagem mostra um banner com o Nome Paulo Henrique logo abaixo um retangulo com a escrita Engenheiro de dados, na linha de baixo contato por email e telefone,+55619813888239 e contato@pauloleocadia.com.br na lateral da esquerda tem um micropossessador e seus ciricuitos criam um efeito na imagem](img/1689820650751.jpeg "Banner de descrição Paulo Leocádia")
+
+
+
 # Paulo Henrique (Paulo Leocádia)
 
 👋 Olá! Sou Paulo Henrique, mas pode me chamar de Paulo Leocádia.
