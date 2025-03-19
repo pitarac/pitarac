@@ -2,7 +2,7 @@
 
 # EN
 
-# Paulo Henrique (Paulo Leocádia)
+# Paulo Henrique
 
 👋 Hello! I'm Paulo Henrique, but you can call me Paulo Leocádia.
 
