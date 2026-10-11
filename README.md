@@ -15,17 +15,17 @@ Pós-graduado pela PUC-Rio em Ciência de Dados e Analytics e em Engenharia de D
 | [Doenças cardíacas – ML e DL](https://github.com/pitarac/PucRio_Sprint_02_MVP) | Comparação de 5 modelos de classificação e rede neural | Scikit-learn, Keras |
 | [Mídia paga](https://github.com/pitarac/Analise-Desempenho-Midia-Paga) | Análise de desempenho de campanhas | Python, Pandas, Matplotlib |
 | SAVVIX – base de conhecimento com IA | Ingestão vetorial e agente de IA no WhatsApp (RAG) | TypeScript, OpenAI, MongoDB Atlas Vector Search, Redis, n8n |
-| Pesquisa com alunos via WhatsApp | Convites com link único, questionário web e painel de resultados | Node.js, MongoDB, React, WhatsApp Cloud API |
-| PT Argumento | Consulta a dados abertos oficiais com citação de fonte | Python, FastAPI, Next.js, Docker |
+| Pesquisa com alunos via WhatsApp | Convites com link único, questionário web e painel de resultados | Node.js, MongoDB, Redis/Bull, React, Chart.js, WhatsApp Cloud API |
+| PT Argumento | Consulta a dados abertos oficiais com citação de fonte | Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, Next.js, Docker |
 
 ## Ferramentas
 
-- **Dados e ML:** Python · SQL · R · Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · Jupyter
-- **Engenharia de dados:** Airflow · Spark · Hadoop · ETL/ELT · Data Warehouse · Data Lake
-- **Nuvem e bancos:** GCP (BigQuery, Dataflow, Composer, AutoML) · PostgreSQL · MySQL · SQL Server · MongoDB
-- **Visualização:** Power BI · Tableau · Looker Studio · Matplotlib · Seaborn
-- **IA generativa:** OpenAI API · embeddings · RAG · bancos vetoriais
-- **Outros:** Git · Docker · Kubernetes · FastAPI · Django
+- **Dados e ML:** Python · SQL · Pandas · NumPy · Scikit-learn · Keras · Matplotlib · Jupyter
+- **Engenharia de dados:** ETL/ELT · BigQuery · Dataflow · Cloud Storage · Composer · Spark · filas com Bull/Redis
+- **Bancos:** PostgreSQL · MongoDB · MySQL · Redis · SQLAlchemy · Prisma · Mongoose
+- **Visualização:** Looker Studio · Chart.js · Matplotlib · dashboards em React
+- **IA generativa:** OpenAI API · embeddings · RAG · MongoDB Atlas Vector Search · n8n
+- **APIs e outros:** FastAPI · Pydantic · Express · Fastify · Next.js · Docker · Git
 
 ---
 
